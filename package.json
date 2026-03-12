@@ -1,0 +1,35 @@
+{
+  "name": "agrosmart",
+  "version": "1.0.0",
+  "description": "AgroSmart - Agricultural Intelligence Mobile Application",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-voice/voice": "^3.2.4",
+    "@react-native-async-storage/async-storage": "^1.17.12",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/stack": "^6.3.17",
+    "react": "^18.2.0",
+    "react-native": "^0.72.3",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-gesture-handler": "^2.14.0",
+    "react-native-localize": "^2.2.6",
+    "react-native-reanimated": "^3.5.4",
+    "react-native-svg": "^13.14.0",
+    "react-native-tts": "^4.5.0",
+    "i18n-js": "^4.4.2",
+    "axios": "^1.5.0",
+    "expo": "^49.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0"
+  },
+  "private": true
+}
